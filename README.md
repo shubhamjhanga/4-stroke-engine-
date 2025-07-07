@@ -26,7 +26,9 @@ The aim is to model mechanical motion realistically and highlight proper part in
 
 ### **Preview**
 
+
 ![Engine Assembly Preview](preview.png)
+Engine Assembly Preview
 ![Engine Assembly Preview](preview%20_engine.png)
 
 
