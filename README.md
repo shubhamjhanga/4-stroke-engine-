@@ -26,8 +26,5 @@ The aim is to model mechanical motion realistically and highlight proper part in
 
 ### 📸 **Preview**
 
-*(Add a screenshot or render of your full engine assembly here)*
-Example:
-
-![Engine Assembly Preview](path-to-your-screenshot.png)
+![Engine Assembly Preview](preview.png)
 
